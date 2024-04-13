@@ -1,0 +1,5 @@
+
+
+class SettingsState{
+  const SettingsState();
+}
